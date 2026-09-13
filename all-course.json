@@ -1,0 +1,52 @@
+[
+  {
+    "id": "TGSEM22026",
+    "category": "HS 11-12",
+    "title": "Class 11 2nd Sem ( Bengali & English ):: একাদশ শ্রেণির দ্বিতীয় সেমিস্টার!",
+    "price": 19,
+    "image": "https://i.ibb.co/S47J6S9K/SEM2.jpg",
+    "href": "https://tutogeniusin.netlify.app/HS/Sem2/enroll.html",
+    "startDate": "2026-09-08",
+    "endDate": "2026-12-31"
+  },
+  {
+    "id": "TGCOSEM426",
+    "category": "HS 11-12",
+    "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
+    "price": 19,
+    "image": "https://i.ibb.co/YF4X3kBL/SEM4.jpg",
+    "href": "https://tutogeniusin.netlify.app/HS/Sem4/enroll.html",
+    "startDate": "2026-09-01",
+    "endDate": "2026-12-30"
+  },
+  {
+    "id": "TGMADHYAMIK2026",
+    "category": "Madhyamik",
+    "title": "Madhyamik All Subjects :: মাধ্যমিক সম্পূর্ণ প্রস্তুতি ব্যাচ!",
+    "price": 19,
+    "image": "https://i.ibb.co/pvHrmp04/Class-11.jpg",
+    "href": "#",
+    "startDate": "2026-09-01",
+    "endDate": "2026-12-15"
+  },
+  {
+    "id": "TGEXAMPREP2026",
+    "category": "Exam prep",
+    "title": "Govt Job & Competitive Exam Preparation 2026",
+    "price": 399,
+    "image": "https://i.ibb.co/pvHrmp04/Class-11.jpg",
+    "href": "#",
+    "startDate": "2026-09-01",
+    "endDate": "2026-10-30"
+  },
+  {
+    "id": "TGSKILLDEV2026",
+    "category": "Skill & Devolop",
+    "title": "Web Development & Programming Masterclass",
+    "price": 499,
+    "image": "#",
+    "href": "enroll.html",
+    "startDate": "2026-09-01",
+    "endDate": "2026-10-10"
+  }
+]
