@@ -7,7 +7,8 @@
     "image": "https://i.ibb.co/S47J6S9K/SEM2.jpg",
     "href": "https://tutogeniusin.netlify.app/HS/Sem2/enroll.html",
     "startDate": "2026-09-08",
-    "endDate": "2026-12-31"
+    "endDate": "2026-12-31",
+    "badge": "New"
   },
   {
     "id": "TGCOSEM426",
@@ -17,13 +18,14 @@
     "image": "https://i.ibb.co/YF4X3kBL/SEM4.jpg",
     "href": "https://tutogeniusin.netlify.app/HS/Sem4/enroll.html",
     "startDate": "2026-09-01",
-    "endDate": "2026-12-30"
+    "endDate": "2026-12-30",
+    "badge": "Bestseller"
   },
   {
     "id": "TGMADHYAMIK2026",
     "category": "Madhyamik",
     "title": "Madhyamik All Subjects :: মাধ্যমিক সম্পূর্ণ প্রস্তুতি ব্যাচ!",
-    "price": 19,
+    "price": Free,
     "image": "https://i.ibb.co/pvHrmp04/Class-11.jpg",
     "href": "#",
     "startDate": "2026-09-01",
@@ -37,7 +39,8 @@
     "image": "https://i.ibb.co/pvHrmp04/Class-11.jpg",
     "href": "#",
     "startDate": "2026-09-01",
-    "endDate": "2026-10-30"
+    "endDate": "2026-10-30",
+    "badge": "Hot"
   },
   {
     "id": "TGSKILLDEV2026",
@@ -47,6 +50,8 @@
     "image": "#",
     "href": "enroll.html",
     "startDate": "2026-09-01",
-    "endDate": "2026-10-10"
+    "endDate": "2026-10-10",
+    "badge": "Premium"
   }
 ]
+
