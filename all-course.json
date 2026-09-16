@@ -1,27 +1,15 @@
 [
   {
-    "id": "TGSEM22026",
-    "creator": "Edutips",
-    "category": "HS 11-12",
-    "title": "Class 11 2nd Sem ( Bengali & English ):: একাদশ শ্রেণির দ্বিতীয় সেমিস্টার!",
-    "price": 19,
-    "image": "https://i.ibb.co/S47J6S9K/SEM2.jpg",
-    "href": "https://tutogenius.vercel.app/HS/Sem2/enroll.html",
-    "startDate": "2026-09-08",
-    "endDate": "2026-12-31",
-    "badge": "New"
-  },
-  {
     "id": "TGCOSEM426XP",
     "creator": "Edutips",
     "category": "HS 11-12",
     "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
     "price": "Free",
-    "image": "https://i.ibb.co/YF4X3kBL/SEM4.jpg",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/sem4.png",
     "href": "https://tutogenius.vercel.app/HS/Sem4/enroll.html",
-    "startDate": "2026-09-01",
-    "endDate": "2026-12-30",
-    "badge": "Bestseller"
+    "startDate": "2026-09-16",
+    "endDate": "2027-03-10",
+    "badge": "4th Semester"
   },
   {
     "id": "TGMADHYAMIK2026",
