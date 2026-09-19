@@ -10,24 +10,24 @@
       "title": "মাধ্যমিক",
       "icon": "https://edulivestore.netlify.app/image/wbbse.png",
       "link": "https://tutogenius.vercel.app/All Course/course.html/?c=Madhyamik",
-      "badge": "A+"
+      "badge": ""
     },
     {
       "title": "HS 11-12",
       "icon": "https://edulivestore.netlify.app/image/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png",
       "link": "https://tutogenius.vercel.app/All Course/course.html/?c=HS 11-12",
-      "badge": "A+"
+      "badge": ""
     },
     {
       "title": "Test+",
       "icon": "https://cdn-icons-png.flaticon.com/512/13972/13972644.png",
       "link": "#",
-      "badge": "New"
+      "badge": ""
     }
   ],
   "showcase": [
     {
-      "imageUrl": "https://i.ibb.co/pvHrmp04/Class-11.jpg",
+      "imageUrl": "https://i.ibb.co/TMcfDPv6/Add-Text-09-19-05-54-21.jpg",
       "altText": "Class 11 Ad",
       "link": "courses.html"
     },
