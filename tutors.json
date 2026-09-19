@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "image": "https://ui-avatars.com/api/?name=John+Doe&background=random&size=128",
+    "description": "Expert in Science & Math with 5+ years experience.",
+    "isVerified": true,
+    "profileLink": "tutor-profile.html?id=1"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "image": "https://ui-avatars.com/api/?name=Jane+Smith&background=random&size=128",
+    "description": "Professional Language & Arts Educator.",
+    "isVerified": true,
+    "profileLink": "tutor-profile.html?id=2"
+  },
+  {
+    "id": "3",
+    "name": "David Ray",
+    "image": "https://ui-avatars.com/api/?name=David+Ray&background=random&size=128",
+    "description": "Specialized in Coding, UI/UX, and Web Dev.",
+    "isVerified": true,
+    "profileLink": "tutor-profile.html?id=3"
+  },
+  {
+    "id": "3",
+    "name": "David Ray",
+    "image": "https://ui-avatars.com/api/?name=David+Ray&background=random&size=128",
+    "description": "Specialized in Coding, UI/UX, and Web Dev.",
+    "isVerified": false,
+    "profileLink": "tutor-profile.html?id=3"
+  }
+]
