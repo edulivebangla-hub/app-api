@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "WhatsApp Group",
+     "isImage": true,
+    "imgUrl": "https://i.ibb.co/S47J6S9K/SEM2.jpg",
+   "color": "#22C55E",
+    "type": "link",
+    "link": "https://chat.whatsapp.com/L00xqfi0atTK04GWrbP65d"
+  },
+  {
+    "id": 2,
+    "title": "বাংলা [BNGA]",
+    "isImage": true,
+    "imgUrl": "https://i.ibb.co/YF4X3kBL/SEM4.jpg",
+    "hasCategories": true,
+    "categories": [
+      {
+        "id": "cat_2_1",
+        "title": "বাংলা - Classes",
+        "type": "alert"
+      },
+      {
+        "id": "cat_2_2",
+        "title": "বাংলা - Notes",
+        "hasSubItems": true,
+        "subItems": [
+          {
+            "id": "sub_2_1",
+            "title": "*আদরিনী* - প্রভাতকুমার মুখোপাধ্যায়",
+            "subtitle": "Content",
+            "type": "pdf",
+            "link": "#"
+          },
+          {
+            "id": "sub_2_2",
+            "title": "*দ্বিগ্বিজয়ের রূপকথা* - নবনীতা দেবসেন",
+            "subtitle": "Content",
+            "type": "pdf",
+            "link": "#"
+          },
+          {
+            "id": "sub_2_3",
+            "title": "*ধর্ম* - শ্রীজাত",
+            "subtitle": "Content",
+            "type": "pdf",
+            "link": "#"
+          },
+          {
+            "id": "sub_2_4",
+            "title": "*বাঙ্গাল ভাষা* - স্বামী বিবেকানন্দ",
+            "subtitle": "Content",
+            "type": "pdf",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "id": "cat_2_3",
+        "title": "বাংলা - MCQs Practice",
+        "type": "alert"
+      },
+      {
+        "id": "cat_2_4",
+        "title": "বাংলা ABTA Practice [Full]",
+        "type": "alert"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "English [ENGB]",
+    "isImage": true,
+    "imgUrl": "https://i.ibb.co/YF4X3kBL/SEM4.jpg",
+    "type": "alert"
+  },
+  {
+    "id": 4,
+    "title": "Final Mock Test",
+    "isImage": true,
+    "imgUrl": "https://i.ibb.co/YF4X3kBL/SEM4.jpg",
+    "type": "alert"
+  }
+]
