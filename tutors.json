@@ -1,34 +1,26 @@
 [
   {
     "id": "1",
-    "name": "John Doe",
-    "image": "https://ui-avatars.com/api/?name=John+Doe&background=random&size=128",
-    "description": "Expert in Science & Math with 5+ years experience.",
+    "name": "TutoGenius",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/Logo.jpeg",
+    "description": "#1 Career Platfrom",
     "isVerified": true,
-    "profileLink": "tutor-profile.html?id=1"
+    "profileLink": "https://tutogenius.vercel.app/Tutor/TutoGenius.html"
   },
   {
     "id": "2",
-    "name": "Jane Smith",
-    "image": "https://ui-avatars.com/api/?name=Jane+Smith&background=random&size=128",
-    "description": "Professional Language & Arts Educator.",
+    "name": "Aninda Halder",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/aninda.png",
+    "description": "Founder",
     "isVerified": true,
-    "profileLink": "tutor-profile.html?id=2"
+    "profileLink": "https://tutogenius.vercel.app/Tutor/AnindaHalder.html"
   },
   {
     "id": "3",
-    "name": "David Ray",
-    "image": "https://ui-avatars.com/api/?name=David+Ray&background=random&size=128",
-    "description": "Specialized in Coding, UI/UX, and Web Dev.",
+    "name": "Debjit Biswas",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/file_00000000e7788211bb88093dc20588a1.png",
+    "description": "Co-Founder",
     "isVerified": true,
-    "profileLink": "tutor-profile.html?id=3"
-  },
-  {
-    "id": "3",
-    "name": "David Ray",
-    "image": "https://ui-avatars.com/api/?name=David+Ray&background=random&size=128",
-    "description": "Specialized in Coding, UI/UX, and Web Dev.",
-    "isVerified": false,
-    "profileLink": "tutor-profile.html?id=3"
+    "profileLink": "https://tutogenius.vercel.app/Tutor/DebjitBiswas.html"
   }
 ]
