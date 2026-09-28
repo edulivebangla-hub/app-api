@@ -1,24 +1,41 @@
 [
-    {
-        "id": "TGFRSEM426",
-        "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
-        "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/sem4.png",
-        "href": "https://tutogenius.vercel.app/HS/Sem4/enroll.html"
-    },{
-        "id": "TGFRSEM426Co",
-        "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
-        "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/sem4.png",
-        "href": "https://tutogenius.vercel.app/HS/Sem4/enroll.html"
-    },{
-        "id": "TGFRSEM426ed",
-        "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
-        "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/sem4.png",
-        "href": "https://tutogenius.vercel.app/HS/Sem4/enroll.html"
-    },{
-        "id": "TGFRSEM426Xp",
-        "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
-        "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/sem4.png",
-        "href": "https://tutogenius.vercel.app/HS/Sem4/enroll.html"
-    }
-    
+  {
+    "id": "TGSEM2",
+    "title": "Class 11 2nd Sem ( Bengali & English ):: উচ্চমাধ্যমিক তৃতীয় সেমিস্টার!",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c3.png",
+    "href": "https://tutogenius.vercel.app/HS/Sem2/enroll.html"
+  },
+  
+
+  {
+    "id": "TGSEM4",
+    "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c2.png",
+    "href": "https://tutogenius.vercel.app/HS/Sem4/enroll.html"
+  },
+  
+
+  {
+    "id": "TGMP26",
+    "title": "Madhyamik All Subjects :: মাধ্যমিক সম্পূর্ণ প্রস্তুতি ব্যাচ!",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c4.png",
+    "href": "https://tutogenius.vercel.app/enroll/enroll-10.html"
+  },
+  
+
+  {
+    "id": "TGJOB26",
+    "title": "Govt Job & Competitive Exam Preparation 2026",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c5.png",
+    "href": "https://tutogenius.vercel.app/enroll/enroll-job.html"
+  },
+ 
+
+  {
+    "id": "TGAI",
+    "title": "AI Learning (AI-SkillUp): সম্পূর্ণ বাংলাতে 🔥",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c1.png",
+    "href": "https://tutogenius.vercel.app/enroll/enroll-ai.html"
+  }
+ 
 ]
