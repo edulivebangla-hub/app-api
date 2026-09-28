@@ -8,7 +8,7 @@
     "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c3.png",
     "href": "https://tutogenius.vercel.app/HS/Sem2/enroll.html",
     "startDate": "2026-09-28",
-    "endDate": "2027-04-10",
+    "endDate": "2027-04-10"
    
   },
   {
@@ -20,7 +20,7 @@
     "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c2.png",
     "href": "https://tutogenius.vercel.app/HS/Sem4/enroll.html",
     "startDate": "2026-09-16",
-    "endDate": "2027-04-10",
+    "endDate": "2027-04-10"
  
   },
   {
@@ -43,7 +43,7 @@
     "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c5.png",
     "href": "#",
     "startDate": "2026-09-28",
-    "endDate": "2027-10-01",
+    "endDate": "2027-10-01"
    
   },
   {
@@ -55,7 +55,7 @@
     "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c1.png",
     "href": "#",
     "startDate": "2026-09-28",
-    "endDate": "2026-11-20",
+    "endDate": "2026-11-20"
   
   }
 ]
