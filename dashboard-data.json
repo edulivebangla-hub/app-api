@@ -3,7 +3,7 @@
     {
       "title": "Exam Prep",
       "icon": "https://cdn-icons-png.flaticon.com/512/2641/2641409.png",
-      "link": "#",
+      "link": "https://tutogenius.vercel.app/All Course/course.html/?c=Exam prep",
       "badge": ""
     },
     {
@@ -19,9 +19,9 @@
       "badge": ""
     },
     {
-      "title": "Test+",
-      "icon": "https://cdn-icons-png.flaticon.com/512/13972/13972644.png",
-      "link": "#",
+      "title": "Skill",
+      "icon": "https://cdn-icons-png.flaticon.com/512/9666/9666850.png",
+      "link": "https://tutogenius.vercel.app/All Course/course.html/?c=Skill & Devolop",
       "badge": ""
     }
   ],
