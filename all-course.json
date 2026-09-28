@@ -1,6 +1,6 @@
 [
  {
-    "id": "TGFRSEM226",
+    "id": "TGSEM2",
     "creator": "TutoGenius",
     "category": "HS 11-12",
     "title": "Class 11 2nd Sem ( Bengali & English ):: উচ্চমাধ্যমিক তৃতীয় সেমিস্টার!",
@@ -12,7 +12,7 @@
    
   },
   {
-    "id": "TGFRSEM426",
+    "id": "TGSEM4",
     "creator": "TutoGenius",
     "category": "HS 11-12",
     "title": "Class 12 4th Sem ( Bengali & English ):: উচ্চমাধ্যমিক চতুর্থ সেমিস্টার!",
@@ -24,36 +24,36 @@
  
   },
   {
-    "id": "TGFRMP26",
+    "id": "TGMP26",
     "creator": "TutoGenius",
     "category": "Madhyamik",
     "title": "Madhyamik All Subjects :: মাধ্যমিক সম্পূর্ণ প্রস্তুতি ব্যাচ!",
     "price": "Free",
     "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c4.png",
-    "href": "#",
+    "href": "https://tutogenius.vercel.app/enroll/enroll-10.html",
     "startDate": "2026-09-28",
     "endDate": "2027-04-10"
   },
   {
-    "id": "TGFRJOB26",
-    "creator": "Debjit-Biswas",
+    "id": "TGJOB26",
+    "creator": "Debjit Biswas",
     "category": "Exam prep",
     "title": "Govt Job & Competitive Exam Preparation 2026",
     "price": "Free",
     "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c5.png",
-    "href": "#",
+    "href": "https://tutogenius.vercel.app/enroll/enroll-job.html",
     "startDate": "2026-09-28",
     "endDate": "2027-10-01"
    
   },
   {
-    "id": "TGPDAI",
-    "creator": "Aninda-Halder",
-    "category": "Skills +",
+    "id": "TGAI",
+    "creator": "Aninda Halder",
+    "category": "Skill & Devolop",
     "title": "AI Learning (AI-SkillUp): সম্পূর্ণ বাংলাতে 🔥",
     "price": 49,
     "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/c1.png",
-    "href": "#",
+    "href": "https://tutogenius.vercel.app/enroll/enroll-ai.html",
     "startDate": "2026-09-28",
     "endDate": "2026-11-20"
   
