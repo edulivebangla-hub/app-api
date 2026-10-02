@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "WhatsApp Group",
+     "isImage": true,
+    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+   "color": "#22C55E",
+    "type": "link",
+    "link": "https://chat.whatsapp.com/GwSQP7UofokBViWTQ8AP1b"
+  },
+  {
+    "id": 2,
+    "title": "বাংলা [BNGA]",
+    "isImage": true,
+    "imgUrl": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/BNGA.png.jpg",
+    "hasCategories": true,
+    "categories": [
+
+
+
+      
+      {
+        "id": "cat_2_1",
+        "title": "বাংলা - Video Class ( WBCHSE )",
+        "hasSubItems": true,
+        "subItems": [
+
+
+
+
+          {
+            "id": "sub_2_1",
+            "title": "*ছুটি* – রবীন্দ্রনাথ ঠাকুর",
+            "subtitle": "Video",
+            "type": "video",
+            "link": "https://tutogenius.vercel.app/HS/Sem2/Subject/BNGA/Video/sem2v1.html"
+          },
+          {
+            "id": "sub_2_2",
+            "title": "*তেলেনাপোতা আবিষ্কার* - প্রেমেন্দ্র মিত্র",
+            "subtitle": "Video",
+            "type": "video",
+            "link": "https://tutogenius.vercel.app/HS/Sem2/Subject/BNGA/Video/sem2v2.html"
+          },
+          {
+            "id": "sub_2_3",
+            "title": "*ভাব সম্মিলন* - বিদ্যাপতি",
+            "subtitle": "Video",
+            "type": "video",
+            "link": "https://tutogenius.vercel.app/HS/Sem2/Subject/BNGA/Video/sem2v3.html"
+          },
+          {
+            "id": "sub_2_4",
+            "title": "*লালনশাহ ফকিরের গান* - লালনশাহ",
+            "subtitle": "Video",
+            "type": "video",
+            "link": "https://tutogenius.vercel.app/HS/Sem2/Subject/BNGA/Video/sem2v4.html"
+          },
+          {
+            "id": "sub_2_5",
+            "title": "*নুন* – জয় গোস্বামী",
+            "subtitle": "Video",
+            "type": "video",
+            "link": "https://tutogenius.vercel.app/HS/Sem2/Subject/BNGA/Video/sem2v5.html"
+          },{
+            "id": "sub_2_6",
+            "title": "*আগুন* - বিজন ভট্টাচার্য",
+            "subtitle": "Video",
+            "type": "video",
+            "link": "https://tutogenius.vercel.app/HS/Sem2/Subject/BNGA/Video/sem2v6.html"
+          }
+
+
+
+
+        ]
+      }
+
+
+
+
+
+    ]
+  },
+  {
+    "id": 3,
+    "title": "English [ENGB]",
+    "isImage": true,
+    "imgUrl": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/ENGB.png.jpg",
+    "type": "alert"
+  }
+  
+]
