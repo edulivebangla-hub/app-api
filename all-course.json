@@ -10,6 +10,17 @@
     "startDate": "2026-09-28",
     "endDate": "2027-04-10"
    
+  },{
+    "id": "TGSEM4ARTS",
+    "creator": "TutoGenius",
+    "category": "HS 11-12",
+    "title": "HS 2nd Sem Arts Paid Practice Batch [HIST, GEGR, COMA, PHIL, EDCN, POLS, SANS & ENVS]",
+    "price": "9",
+    "image": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/arts-2nd-sem.jpeg",
+    "href": "https://tutogenius.vercel.app/HS/Sem2/arts/enroll.html",
+    "startDate": "2026-10-04",
+    "endDate": "2027-04-10"
+   
   },
   {
     "id": "TGSEM4",
