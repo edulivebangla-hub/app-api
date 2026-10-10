@@ -17,12 +17,87 @@
             "hasCategories": true,
             "subItems": [
               {
-                "id": "sub_1_1",
-                "title": "Physical Geography Overview",
-                "subtitle": "Video",
-                "type": "video",
+                "id": "sub_1_1_1",
+                "title": "Unit 1 - M:6",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_1_2",
+                "title": "Unit 2 - M:10",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_1_3",
+                "title": "Unit 3 - M:5",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_1_4",
+                "title": "Unit 4 - M:10",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_1_5",
+                "title": "Unit 5 - M:6",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_1_6",
+                "title": "Unit 6 - M:6",
+                "subtitle": "Notes",
+                "type": "notes",
                 "link": "#"
               }
+            ]
+          },{
+            "id": "cat_1_1_2",
+            "title": "Fundamentals of Human Geography - MARKS: 10",
+            "hasCategories": true,
+            "subItems": [
+               {
+                "id": "sub_1_2_1",
+                "title": "Unit 1 - M:9",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_2_2",
+                "title": "Unit 2 - M:3",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              }
+            ]
+          },{
+            "id": "cat_1_1_3",
+            "title": "Geography of India - MARKS: 10",
+            "hasCategories": true,
+            "subItems": [
+              {
+                "id": "sub_1_3_1",
+                "title": "Unit 1 - M:6",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_3_2",
+                "title": "Unit 2 - M:4",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              },{
+                "id": "sub_1_3_3",
+                "title": "Unit 2 - M:10",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+              }
+          
             ]
           }
         ]
