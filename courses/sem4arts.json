@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Geography (GEGR)",
     "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+    "imgUrl": "https://cdn-icons-png.flaticon.com/512/2387/2387542.png",
     "hasCategories": true,
     "categories": [
       {
@@ -108,7 +108,7 @@
     "id": 2,
     "title": "Economics (ECON)",
     "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3310/3310624.png",
     "hasCategories": true,
     "categories": [
       {
@@ -117,11 +117,65 @@
         "hasSubItems": true,
         "subItems": [
           {
-            "id": "sub_2_1",
-            "title": "Introduction to Economics",
-            "subtitle": "Video",
-            "type": "video",
-            "link": "#"
+                "id": "sub_2_1",
+                "title": "অর্থের ধারণা ও কার্যাবলী ",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_2",
+                "title": "অর্থের জোগানের মূল কথা",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_3",
+                "title": "মুদ্রাস্ফীতি",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_4",
+                "title": "কেন্দ্রীয় ব্যাংক",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_5",
+                "title": "রাষ্ট্রীয় আয় ব্যয়",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_6",
+                "title": "শিল্প",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_7",
+                "title": "ভারতের সেবাক্ষেত্র",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_8",
+                "title": "অন্তর্ভুক্তি মূলক প্রসার , স্থিতিশীল উন্নয়ন ও পরিবেশ",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_9",
+                "title": "বৈষম্য ও দারিদ্র্য",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_2_10",
+                "title": "মানব উন্নয়ন এবং নীতি আয়োগ",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
           }
         ]
       }
@@ -131,7 +185,7 @@
     "id": 3,
     "title": "Computer Application (COMA)",
     "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+    "imgUrl": "https://cdn-icons-png.flaticon.com/512/1055/1055666.png",
     "hasCategories": true,
     "categories": [
       {
@@ -140,11 +194,23 @@
         "hasSubItems": true,
         "subItems": [
           {
-            "id": "sub_3_1",
-            "title": "Networking Basics",
-            "subtitle": "Video",
-            "type": "video",
-            "link": "#"
+                "id": "sub_3_1",
+                "title": "Basics of Operating System",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_3_2",
+                "title": "Database Management System",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_3_3",
+                "title": "Foundation of Artificial lntelligence (Al)",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
           }
         ]
       }
@@ -154,7 +220,7 @@
     "id": 4,
     "title": "Political Science (POLS)",
     "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+    "imgUrl": "https://cdn-icons-png.flaticon.com/512/15188/15188782.png",
     "hasCategories": true,
     "categories": [
       {
@@ -163,11 +229,41 @@
         "hasSubItems": true,
         "subItems": [
           {
-            "id": "sub_4_1",
-            "title": "Indian Constitution Overview",
-            "subtitle": "Video",
-            "type": "video",
-            "link": "#"
+                "id": "sub_4_1",
+                "title": "আন্তর্জাতিক সম্পর্ক - মূল ধারণা এবং রাজনৈতিক নীতি",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_4_2",
+                "title": "প্রধান আঞ্চলিক এবং উপ-আঞ্চলিক সংস্থা",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_4_3",
+                "title": "বিশ্বায়ন",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_4_4",
+                "title": "ভারতের সরকারের অঙ্গসমূহ:",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_4_5",
+                "title": "ভারতে সমসাময়িক নাগরিক সমাজ আন্দোলন",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_4_6",
+                "title": "সংবিধান সংশোধনী এবং স্থানীয় স্বশাসন",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
           }
         ]
       }
@@ -177,7 +273,7 @@
     "id": 5,
     "title": "History (HIST)",
     "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+    "imgUrl": "https://cdn-icons-png.flaticon.com/512/2682/2682065.png",
     "hasCategories": true,
     "categories": [
       {
@@ -186,11 +282,29 @@
         "hasSubItems": true,
         "subItems": [
           {
-            "id": "sub_5_1",
-            "title": "Modern Indian History",
-            "subtitle": "Video",
-            "type": "video",
-            "link": "#"
+                "id": "sub_5_1",
+                "title": "বিপ্লবীরা এবং রাজ",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_5_2",
+                "title": "জাতীয়তাবাদ এবং বিচ্ছিন্নতাবাদ",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_5_3",
+                "title": "সংবিধান রচনা",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_5_4",
+                "title": "রাষ্ট্র গঠন এবং সম্পর্কিত দিকগুলো",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
           }
         ]
       }
@@ -200,7 +314,7 @@
     "id": 6,
     "title": "Philosophy (PHIL)",
     "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
+    "imgUrl": "https://cdn-icons-png.flaticon.com/512/18253/18253879.png",
     "hasCategories": true,
     "categories": [
       {
@@ -209,57 +323,17 @@
         "hasSubItems": true,
         "subItems": [
           {
-            "id": "sub_6_1",
-            "title": "Western Logic Basics",
-            "subtitle": "Video",
-            "type": "video",
-            "link": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Education (EDCN)",
-    "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
-    "hasCategories": true,
-    "categories": [
-      {
-        "id": "cat_7_1",
-        "title": "Education Notes ( WBCHSE )",
-        "hasSubItems": true,
-        "subItems": [
-          {
-            "id": "sub_7_1",
-            "title": "Educational Psychology",
-            "subtitle": "Video",
-            "type": "video",
-            "link": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Environment Studies (ENVS)",
-    "isImage": true,
-    "imgUrl": "https://cdn-icons-png.flaticon.com/512/3670/3670051.png",
-    "hasCategories": true,
-    "categories": [
-      {
-        "id": "cat_8_1",
-        "title": "Environment Studies Notes ( WBCHSE )",
-        "hasSubItems": true,
-        "subItems": [
-          {
-            "id": "sub_8_1",
-            "title": "Ecosystems and Biodiversity",
-            "subtitle": "Video",
-            "type": "video",
-            "link": "#"
+                "id": "sub_6_1",
+                "title": "পশ্চিমী যুক্তি",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
+          },{
+                "id": "sub_6_2",
+                "title": "আধুনিক ভারতীয় চিন্তাধারা",
+                "subtitle": "Notes",
+                "type": "notes",
+                "link": "#"
           }
         ]
       }
