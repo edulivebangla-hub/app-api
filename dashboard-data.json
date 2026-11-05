@@ -3,25 +3,25 @@
     {
       "title": "Exam Prep",
       "icon": "https://cdn-icons-png.flaticon.com/512/2641/2641409.png",
-      "link": "https://tutogenius.vercel.app/All Course/course.html/?c=Exam prep",
+      "link": "allcourses.html/?c=Exam prep",
       "badge": ""
     },
     {
       "title": "মাধ্যমিক",
       "icon": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/mp.jpg",
-      "link": "https://tutogenius.vercel.app/All Course/course.html/?c=Madhyamik",
+      "link": "allcourses.html/?c=Madhyamik",
       "badge": ""
     },
     {
       "title": "HS 11-12",
       "icon": "https://raw.githubusercontent.com/edulivebangla-hub/app-api/refs/heads/main/image/hs.png.jpg",
-      "link": "https://tutogenius.vercel.app/All Course/course.html/?c=HS 11-12",
+      "link": "allcourses.html/?c=HS 11-12",
       "badge": ""
     },
     {
       "title": "Skills",
       "icon": "https://cdn-icons-png.flaticon.com/512/9666/9666850.png",
-      "link": "https://tutogenius.vercel.app/All Course/course.html/?c=Skills +",
+      "link": "allcourses.html/?c=Skills",
       "badge": ""
     }
   ],
